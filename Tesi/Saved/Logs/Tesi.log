@@ -1366,3 +1366,762 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.02-13.12.18:388][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
 [2023.04.02-13.12.18:413][517]LogPlayLevel: Display: Destroying online subsystem :Context_6
 [2023.04.02-13.12.18:413][517]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.04.02-13.21.36:681][865]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.04.02-13.21.36:682][865]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.02-13.21.37:660][865]LogSlate: Took 0.000427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.02-13.22.44:238][688]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2023.04.02-13.22.44:244][688]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2023.04.02-13.22.44:247][688]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-13.22.44:247][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-13.22.57:515][186]LogContentBrowser: Attempting asset rename: BP_ThirdPersonCharacter -> BP_ThirdPersonCharacterP1
+[2023.04.02-13.22.57:554][186]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.BP_ThirdPersonCharacterP1_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.04.02-13.22.57:554][186]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.SKEL_BP_ThirdPersonCharacterP1_C:InpAxisEvt_Move Forward / Backward_K2Node_InputAxisEvent_14' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.04.02-13.22.57:554][186]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.SKEL_BP_ThirdPersonCharacterP1_C:InpAxisEvt_Turn Right / Left Gamepad_K2Node_InputAxisEvent_15' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.04.02-13.22.57:554][186]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.SKEL_BP_ThirdPersonCharacterP1_C:InpAxisEvt_Turn Right / Left Mouse_K2Node_InputAxisEvent_16' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.04.02-13.22.57:554][186]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.SKEL_BP_ThirdPersonCharacterP1_C:InpAxisEvt_Look Up / Down Mouse_K2Node_InputAxisEvent_17' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.04.02-13.22.57:554][186]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.SKEL_BP_ThirdPersonCharacterP1_C:InpAxisEvt_Look Up / Down Gamepad_K2Node_InputAxisEvent_18' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.04.02-13.22.57:554][186]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.SKEL_BP_ThirdPersonCharacterP1_C:InpAxisEvt_Move Right / Left_K2Node_InputAxisEvent_19' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.04.02-13.22.57:554][186]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.SKEL_BP_ThirdPersonCharacterP1_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.04.02-13.22.57:554][186]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.SKEL_BP_ThirdPersonCharacterP1_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.04.02-13.22.57:594][186]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2023.04.02-13.22.57:594][186]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/BP_ThirdPersonGameMode3FF95B3E46021AA6B2F20F9BC38DD44D.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2023.04.02-13.22.57:618][186]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1
+[2023.04.02-13.22.57:618][186]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/BP_ThirdPersonCharacterP1A2E912364666834A6C03B9A7E8C5083C.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.uasset'
+[2023.04.02-13.22.57:654][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.04.02-13.22.57:670][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.04.02-13.22.57:683][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.02-13.22.57:688][186]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.02-13.22.57:688][186]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.BP_ThirdPersonCharacterP1
+[2023.04.02-13.22.57:688][186]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2023.04.02-13.22.59:042][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.04.02-13.23.04:572][871]LogContentBrowser: Attempting asset rename: BP_ThirdPersonCharacterP1_2 -> BP_ThirdPersonCharacterP2
+[2023.04.02-13.23.04:591][871]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP2.SKEL_BP_ThirdPersonCharacterP2_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1_2.PackageMetaData'
+[2023.04.02-13.23.04:591][871]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP2.BP_ThirdPersonCharacterP2_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1_2.PackageMetaData'
+[2023.04.02-13.23.04:591][871]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP2.SKEL_BP_ThirdPersonCharacterP2_C:InpAxisEvt_Move Forward / Backward_K2Node_InputAxisEvent_14' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1_2.PackageMetaData'
+[2023.04.02-13.23.04:591][871]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP2.SKEL_BP_ThirdPersonCharacterP2_C:InpAxisEvt_Turn Right / Left Gamepad_K2Node_InputAxisEvent_15' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1_2.PackageMetaData'
+[2023.04.02-13.23.04:591][871]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP2.SKEL_BP_ThirdPersonCharacterP2_C:InpAxisEvt_Turn Right / Left Mouse_K2Node_InputAxisEvent_16' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1_2.PackageMetaData'
+[2023.04.02-13.23.04:591][871]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP2.SKEL_BP_ThirdPersonCharacterP2_C:InpAxisEvt_Look Up / Down Mouse_K2Node_InputAxisEvent_17' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1_2.PackageMetaData'
+[2023.04.02-13.23.04:591][871]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP2.SKEL_BP_ThirdPersonCharacterP2_C:InpAxisEvt_Look Up / Down Gamepad_K2Node_InputAxisEvent_18' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1_2.PackageMetaData'
+[2023.04.02-13.23.04:591][871]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP2.SKEL_BP_ThirdPersonCharacterP2_C:InpAxisEvt_Move Right / Left_K2Node_InputAxisEvent_19' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1_2.PackageMetaData'
+[2023.04.02-13.23.04:591][871]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP2.SKEL_BP_ThirdPersonCharacterP2_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1_2.PackageMetaData'
+[2023.04.02-13.23.04:658][871]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP2
+[2023.04.02-13.23.04:658][871]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/BP_ThirdPersonCharacterP26099053B43DEE07A83BE328E28BBF710.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP2.uasset'
+[2023.04.02-13.23.04:687][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.04.02-13.23.04:702][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.04.02-13.23.04:717][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.04.02-13.23.04:721][871]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacterP2
+[2023.04.02-13.23.04:721][871]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP2.BP_ThirdPersonCharacterP2
+[2023.04.02-13.23.06:119][ 20]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.BP_ThirdPersonCharacterP1
+[2023.04.02-13.23.06:119][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.02-13.23.51:111][802]LogSlate: Window 'BP_ThirdPersonCharacterP1' being destroyed
+[2023.04.02-13.23.51:117][802]LogSlate: Window 'BP_ThirdPersonCharacterP1' being destroyed
+[2023.04.02-13.23.51:118][802]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-13.23.51:118][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-13.23.56:165][353]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.02-13.23.56:172][353]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.02-13.23.56:178][354]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.02-13.23.59:138][708]LogContentBrowser: Attempting asset rename: NewFolder -> Doors
+[2023.04.02-13.23.59:138][708]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.02-13.24.02:500][ 80]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.02-13.24.08:703][ 80]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.04.02-13.24.08:710][ 80]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.04.02-13.24.08:715][ 80]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.04.02-13.24.08:736][ 82]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.04.02-13.24.22:401][695]LogContentBrowser: Attempting asset rename: NewBlueprint -> DoorAndButton
+[2023.04.02-13.24.22:405][695]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.04.02-13.24.23:730][852]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Doors/DoorAndButton.DoorAndButton
+[2023.04.02-13.24.23:731][852]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.02-13.24.24:098][852]LogViewport: Scene viewport resized to 793x695, mode Windowed.
+[2023.04.02-13.24.28:876][365]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.02-13.24.30:780][542]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.02-13.24.32:601][713]LogSlate: Took 0.000352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.02-13.24.41:673][711]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.02-13.24.50:054][534]BlueprintLog: New page: Compile DoorAndButton
+[2023.04.02-13.24.50:090][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.04.02-13.24.55:736][969]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Doors/DoorAndButton.DoorAndButton_C
+[2023.04.02-13.24.55:736][969]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Doors/DoorAndButton.DoorAndButton_C
+[2023.04.02-13.24.55:737][969]LogActorFactory: Actor Factory spawned Blueprint /Game/Doors/DoorAndButton.DoorAndButton as actor: DoorAndButton_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DoorAndButton_C_0
+[2023.04.02-13.24.55:738][969]LogActorFactory: Actor Factory spawned Blueprint /Game/Doors/DoorAndButton.DoorAndButton as actor: DoorAndButton_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DoorAndButton_C_0
+[2023.04.02-13.24.56:697][ 48]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Doors/DoorAndButton.DoorAndButton_C
+[2023.04.02-13.24.56:697][ 48]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Doors/DoorAndButton.DoorAndButton_C
+[2023.04.02-13.24.56:701][ 48]LogActorFactory: Actor Factory spawned Blueprint /Game/Doors/DoorAndButton.DoorAndButton as actor: DoorAndButton_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DoorAndButton_C_UAID_D85ED38AB3754D7501_1233029263
+[2023.04.02-13.24.56:702][ 48]LogActorFactory: Actor Factory spawned Blueprint /Game/Doors/DoorAndButton.DoorAndButton as actor: DoorAndButton_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DoorAndButton_C_UAID_D85ED38AB3754D7501_1233029263
+[2023.04.02-13.26.29:134][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.04.02-13.26.29:139][286]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/X1/XJRBRS6WSE1PHUCUG0UZ6L_Auto1
+[2023.04.02-13.26.29:139][286]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/XJRBRS6WSE1PHUCUG0UZ6L_Auto14940AECF43553031937B309148FD0CCF.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/X1/XJRBRS6WSE1PHUCUG0UZ6L_Auto1.uasset'
+[2023.04.02-13.26.29:139][286]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.028
+[2023.04.02-13.26.29:139][286]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2023.04.02-13.27.45:452][734]BlueprintLog: New page: Compile DoorAndButton
+[2023.04.02-13.27.45:636][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.04.02-13.28.07:396][807]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.BP_ThirdPersonCharacterP1
+[2023.04.02-13.28.07:397][807]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.02-13.28.24:928][331]BlueprintLog: New page: Compile BP_ThirdPersonCharacterP1
+[2023.04.02-13.28.24:986][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.04.02-13.28.38:338][784]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.04.02-13.28.41:824][ 88]LogViewport: Scene viewport resized to 793x694, mode Windowed.
+[2023.04.02-13.28.41:964][ 95]LogViewport: Scene viewport resized to 791x712, mode Windowed.
+[2023.04.02-13.28.42:039][ 97]LogViewport: Scene viewport resized to 465x373, mode Windowed.
+[2023.04.02-13.28.42:080][ 98]LogViewport: Scene viewport resized to 404x310, mode Windowed.
+[2023.04.02-13.28.42:104][ 99]LogViewport: Scene viewport resized to 1322x973, mode Windowed.
+[2023.04.02-13.28.42:163][100]LogViewport: Scene viewport resized to 1320x991, mode Windowed.
+[2023.04.02-13.28.42:246][102]LogViewport: Scene viewport resized to 404x226, mode Windowed.
+[2023.04.02-13.28.42:435][122]LogViewport: Scene viewport resized to 1322x973, mode Windowed.
+[2023.04.02-13.28.45:798][477]LogSlate: Window 'BP_ThirdPersonCharacterP1' being destroyed
+[2023.04.02-13.29.10:108][348]BlueprintLog: New page: Compile BP_ThirdPersonCharacterP1
+[2023.04.02-13.29.10:203][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.04.02-13.30.20:369][428]BlueprintLog: New page: Compile BP_ThirdPersonCharacterP1
+[2023.04.02-13.30.20:444][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.02-13.30.36:139][291]BlueprintLog: New page: Compile DoorAndButton
+[2023.04.02-13.30.36:186][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.04.02-13.30.57:720][666]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.02-13.30.57:720][666]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.02-13.31.06:728][739]LogContentBrowser: Attempting asset rename: DoorAndButton -> ButtonForDoor
+[2023.04.02-13.31.06:742][739]LogMetaData: Removing '/Game/Doors/ButtonForDoor.ButtonForDoor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Doors/DoorAndButton.PackageMetaData'
+[2023.04.02-13.31.06:742][739]LogMetaData: Removing '/Game/Doors/ButtonForDoor.SKEL_ButtonForDoor_C' ref from Metadata '/Game/Doors/DoorAndButton.PackageMetaData'
+[2023.04.02-13.31.06:742][739]LogMetaData: Removing '/Game/Doors/ButtonForDoor.ButtonForDoor_C' ref from Metadata '/Game/Doors/DoorAndButton.PackageMetaData'
+[2023.04.02-13.31.06:742][739]LogMetaData: Removing '/Game/Doors/ButtonForDoor.ButtonForDoor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Doors/DoorAndButton.PackageMetaData'
+[2023.04.02-13.31.06:742][739]LogMetaData: Removing '/Game/Doors/ButtonForDoor.ButtonForDoor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Doors/DoorAndButton.PackageMetaData'
+[2023.04.02-13.31.06:742][739]LogMetaData: Removing '/Game/Doors/ButtonForDoor.ButtonForDoor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Doors/DoorAndButton.PackageMetaData'
+[2023.04.02-13.31.06:742][739]LogMetaData: Removing '/Game/Doors/ButtonForDoor.SKEL_ButtonForDoor_C:ReceiveBeginPlay' ref from Metadata '/Game/Doors/DoorAndButton.PackageMetaData'
+[2023.04.02-13.31.06:742][739]LogMetaData: Removing '/Game/Doors/ButtonForDoor.SKEL_ButtonForDoor_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Doors/DoorAndButton.PackageMetaData'
+[2023.04.02-13.31.06:742][739]LogMetaData: Removing '/Game/Doors/ButtonForDoor.SKEL_ButtonForDoor_C:ReceiveTick' ref from Metadata '/Game/Doors/DoorAndButton.PackageMetaData'
+[2023.04.02-13.31.06:742][739]LogMetaData: Removing '/Game/Doors/ButtonForDoor.SKEL_ButtonForDoor_C:UserConstructionScript' ref from Metadata '/Game/Doors/DoorAndButton.PackageMetaData'
+[2023.04.02-13.31.06:796][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/ButtonForDoor" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset" SILENT=true
+[2023.04.02-13.31.06:799][739]LogSavePackage: Moving output files for package: /Game/Doors/ButtonForDoor
+[2023.04.02-13.31.06:799][739]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/ButtonForDoorCEC51FF149B7B33CA2800C8C1BA11794.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset'
+[2023.04.02-13.31.06:845][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.04.02-13.31.06:874][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.04.02-13.31.06:901][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.04.02-13.31.06:907][739]AssetCheck: New page: Asset Save: ButtonForDoor
+[2023.04.02-13.31.06:907][739]LogContentValidation: Display: Validating Blueprint /Game/Doors/ButtonForDoor.ButtonForDoor
+[2023.04.02-13.31.09:647][ 43]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.02-13.31.09:656][ 43]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.02-13.31.09:662][ 44]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.02-13.31.10:697][165]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.04.02-13.31.10:697][165]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.02-13.31.18:848][921]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.04.02-13.31.18:856][921]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.04.02-13.31.18:860][921]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.04.02-13.31.18:867][922]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.04.02-13.31.20:922][155]LogContentBrowser: Attempting asset rename: NewBlueprint -> Door
+[2023.04.02-13.31.20:926][155]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.04.02-13.31.22:568][351]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Doors/Door.Door
+[2023.04.02-13.31.22:569][351]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.02-13.31.22:870][351]LogViewport: Scene viewport resized to 1322x974, mode Windowed.
+[2023.04.02-13.31.41:740][523]BlueprintLog: New page: Compile Door
+[2023.04.02-13.31.41:790][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.04.02-13.31.43:780][728]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Doors/Door.Door_C
+[2023.04.02-13.31.43:780][728]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Doors/Door.Door_C
+[2023.04.02-13.31.43:781][728]LogActorFactory: Actor Factory spawned Blueprint /Game/Doors/Door.Door as actor: Door_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Door_C_0
+[2023.04.02-13.31.43:782][728]LogActorFactory: Actor Factory spawned Blueprint /Game/Doors/Door.Door as actor: Door_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Door_C_0
+[2023.04.02-13.31.44:870][840]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Doors/Door.Door_C
+[2023.04.02-13.31.44:870][840]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Doors/Door.Door_C
+[2023.04.02-13.31.44:873][840]LogActorFactory: Actor Factory spawned Blueprint /Game/Doors/Door.Door as actor: Door_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Door_C_UAID_D85ED38AB3754D7501_1641201264
+[2023.04.02-13.31.44:874][840]LogActorFactory: Actor Factory spawned Blueprint /Game/Doors/Door.Door as actor: Door_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Door_C_UAID_D85ED38AB3754D7501_1641201264
+[2023.04.02-13.32.09:172][657]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.02-13.32.09:181][657]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.02-13.32.09:188][658]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.02-13.32.13:719][201]LogContentBrowser: Attempting asset rename: NewFolder -> Interfaces
+[2023.04.02-13.32.13:719][201]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.02-13.32.25:144][474]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2023.04.02-13.32.25:148][474]LogContentBrowser: Creating deferred item: NewInterface
+[2023.04.02-13.32.25:183][476]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2023.04.02-13.32.30:763][144]LogContentBrowser: Attempting asset rename: NewInterface -> Interact
+[2023.04.02-13.32.30:767][144]LogContentBrowser: End creating deferred item NewInterface
+[2023.04.02-13.32.47:491][385]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interfaces/Interact.Interact
+[2023.04.02-13.32.47:492][385]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.02-13.35.51:014][186]LogSlate: Took 0.005043 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.04.02-13.36.59:664][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.04.02-13.36.59:668][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/X1/XJRBRS6WSE1PHUCUG0UZ6L_Auto2
+[2023.04.02-13.36.59:668][857]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/XJRBRS6WSE1PHUCUG0UZ6L_Auto2D7B8C4D04C7573C12126128D170F3B8B.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/X1/XJRBRS6WSE1PHUCUG0UZ6L_Auto2.uasset'
+[2023.04.02-13.36.59:670][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WH/6N5I7682D4UXC8FJ688MKZ_Auto2
+[2023.04.02-13.36.59:670][857]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/6N5I7682D4UXC8FJ688MKZ_Auto2E3CBB8F84D7CDC4540860B9C4C53FFB1.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WH/6N5I7682D4UXC8FJ688MKZ_Auto2.uasset'
+[2023.04.02-13.36.59:670][857]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.052
+[2023.04.02-13.36.59:670][857]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2023.04.02-13.36.59:670][857]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1] ([2] browsable assets)...
+[2023.04.02-13.36.59:707][857]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.BP_ThirdPersonCharacterP1]
+[2023.04.02-13.36.59:707][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1]
+[2023.04.02-13.36.59:716][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1_Auto2
+[2023.04.02-13.36.59:716][857]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/BP_ThirdPersonCharacterP1_Auto23AAC0DFF4FBB346C4DFA8E82AC9E6144.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1_Auto2.uasset'
+[2023.04.02-13.36.59:717][857]LogFileHelpers: Auto-saving content packages took 0.047
+[2023.04.02-13.37.38:402][847]LogViewport: Scene viewport resized to 1322x973, mode Windowed.
+[2023.04.02-13.37.39:399][944]BlueprintLog: New page: Compile Door
+[2023.04.02-13.37.39:453][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.04.02-13.37.40:662][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/Door" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/Door.uasset" SILENT=true
+[2023.04.02-13.37.40:665][ 77]LogSavePackage: Moving output files for package: /Game/Doors/Door
+[2023.04.02-13.37.40:665][ 77]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/DoorA8A307CE41C6C98AD67DF4A0D795CE07.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/Door.uasset'
+[2023.04.02-13.37.40:676][ 77]AssetCheck: New page: Asset Save: Door
+[2023.04.02-13.37.40:676][ 77]LogContentValidation: Display: Validating Blueprint /Game/Doors/Door.Door
+[2023.04.02-13.37.42:329][253]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1
+[2023.04.02-13.37.42:330][253]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/BP_ThirdPersonCharacterP13C70890843971B9C141DD8B17757EBE7.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.uasset'
+[2023.04.02-13.37.42:342][253]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacterP1
+[2023.04.02-13.37.42:342][253]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.BP_ThirdPersonCharacterP1
+[2023.04.02-13.37.42:673][293]BlueprintLog: New page: Compile BP_ThirdPersonCharacterP1
+[2023.04.02-13.37.42:742][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.04.02-13.42.22:420][184]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.02-13.42.31:264][236]BlueprintLog: New page: Compile BP_ThirdPersonCharacterP1
+[2023.04.02-13.42.31:349][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.04.02-13.45.32:222][213]BlueprintLog: New page: Compile Interact
+[2023.04.02-13.45.32:257][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.04.02-13.45.55:456][ 18]BlueprintLog: New page: Compile BP_ThirdPersonCharacterP1
+[2023.04.02-13.45.55:531][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.04.02-13.47.34:268][272]BlueprintLog: New page: Compile Door
+[2023.04.02-13.47.34:323][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.04.02-13.47.38:694][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfaces/Interact" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Interfaces/Interact.uasset" SILENT=true
+[2023.04.02-13.47.38:696][790]LogSavePackage: Moving output files for package: /Game/Interfaces/Interact
+[2023.04.02-13.47.38:696][790]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/Interact036E20B44C19D48115D4DCBFE5AFA636.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Interfaces/Interact.uasset'
+[2023.04.02-13.47.38:707][790]AssetCheck: New page: Asset Save: Interact
+[2023.04.02-13.47.38:707][790]LogContentValidation: Display: Validating Blueprint /Game/Interfaces/Interact.Interact
+[2023.04.02-13.47.45:063][532]BlueprintLog: New page: Compile Door
+[2023.04.02-13.47.45:117][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.04.02-13.47.45:182][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/Door" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/Door.uasset" SILENT=true
+[2023.04.02-13.47.45:185][532]LogSavePackage: Moving output files for package: /Game/Doors/Door
+[2023.04.02-13.47.45:185][532]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/Door36877D1445DCF22910DF139B388C796B.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/Door.uasset'
+[2023.04.02-13.47.45:197][532]AssetCheck: New page: Asset Save: Door
+[2023.04.02-13.47.45:197][532]LogContentValidation: Display: Validating Blueprint /Game/Doors/Door.Door
+[2023.04.02-13.47.47:147][749]BlueprintLog: New page: Compile BP_ThirdPersonCharacterP1
+[2023.04.02-13.47.47:218][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.02-13.47.47:317][749]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1
+[2023.04.02-13.47.47:318][749]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/BP_ThirdPersonCharacterP1A29F6F7E40C2975FC3A2C281D9731E75.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.uasset'
+[2023.04.02-13.47.47:330][749]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacterP1
+[2023.04.02-13.47.47:330][749]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.BP_ThirdPersonCharacterP1
+[2023.04.02-13.48.05:354][834]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.02-13.48.17:379][525]BlueprintLog: New page: Compile Door
+[2023.04.02-13.48.17:434][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.04.02-13.48.17:509][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/Door" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/Door.uasset" SILENT=true
+[2023.04.02-13.48.17:513][525]LogSavePackage: Moving output files for package: /Game/Doors/Door
+[2023.04.02-13.48.17:513][525]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/Door6FD90A9E44A2F59E75B4A39D46CF1838.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/Door.uasset'
+[2023.04.02-13.48.17:526][525]AssetCheck: New page: Asset Save: Door
+[2023.04.02-13.48.17:526][525]LogContentValidation: Display: Validating Blueprint /Game/Doors/Door.Door
+[2023.04.02-13.48.28:103][763]LogSlate: Window 'Message' being destroyed
+[2023.04.02-13.48.28:106][763]Message dialog closed, result: No, title: Message, text: Would you like to transfer the interface functions to be part of your blueprint?
+[2023.04.02-13.48.34:314][497]BlueprintLog: New page: Compile Door
+[2023.04.02-13.48.34:365][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.04.02-13.48.34:429][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/Door" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/Door.uasset" SILENT=true
+[2023.04.02-13.48.34:432][497]LogSavePackage: Moving output files for package: /Game/Doors/Door
+[2023.04.02-13.48.34:432][497]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/DoorBA4AD28B473BFF8B770706820A29BFB7.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/Door.uasset'
+[2023.04.02-13.48.34:444][497]AssetCheck: New page: Asset Save: Door
+[2023.04.02-13.48.34:444][497]LogContentValidation: Display: Validating Blueprint /Game/Doors/Door.Door
+[2023.04.02-13.51.12:679][324]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP2.BP_ThirdPersonCharacterP2
+[2023.04.02-13.51.12:679][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.02-13.51.40:782][566]BlueprintLog: New page: Compile BP_ThirdPersonCharacterP2
+[2023.04.02-13.51.40:861][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.04.02-13.51.40:942][566]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP2
+[2023.04.02-13.51.40:942][566]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/BP_ThirdPersonCharacterP2BA87D86344C0E99326FB039AD240A598.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP2.uasset'
+[2023.04.02-13.51.40:954][566]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacterP2
+[2023.04.02-13.51.40:954][566]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP2.BP_ThirdPersonCharacterP2
+[2023.04.02-13.52.33:101][705]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-13.52.33:102][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-13.52.36:304][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.04.02-13.52.38:038][ 24]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.02-13.52.38:204][ 24]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.02-13.52.38:204][ 24]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-13.52.38:204][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-13.52.38:248][ 24]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP2.BP_ThirdPersonCharacterP2
+	Asset Type: Blueprint
+[2023.04.02-13.52.38:533][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.04.02-13.52.38:594][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.04.02-13.52.38:623][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.04.02-13.52.38:650][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.04.02-13.52.47:936][ 42]LogContentBrowser: Attempting asset rename: BP_ThirdPersonCharacterP1 -> BP_ThirdPersonCharacter_Master
+[2023.04.02-13.52.47:951][ 42]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.BP_ThirdPersonCharacter_Master_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.PackageMetaData'
+[2023.04.02-13.52.47:951][ 42]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.SKEL_BP_ThirdPersonCharacter_Master_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.PackageMetaData'
+[2023.04.02-13.52.47:951][ 42]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.SKEL_BP_ThirdPersonCharacter_Master_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.PackageMetaData'
+[2023.04.02-13.52.47:951][ 42]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.SKEL_BP_ThirdPersonCharacter_Master_C:InpAxisEvt_Move Right / Left_K2Node_InputAxisEvent_19' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.PackageMetaData'
+[2023.04.02-13.52.47:951][ 42]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.SKEL_BP_ThirdPersonCharacter_Master_C:InpAxisEvt_Look Up / Down Gamepad_K2Node_InputAxisEvent_18' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.PackageMetaData'
+[2023.04.02-13.52.47:951][ 42]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.SKEL_BP_ThirdPersonCharacter_Master_C:InpAxisEvt_Look Up / Down Mouse_K2Node_InputAxisEvent_17' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.PackageMetaData'
+[2023.04.02-13.52.47:952][ 42]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.SKEL_BP_ThirdPersonCharacter_Master_C:InpAxisEvt_Turn Right / Left Mouse_K2Node_InputAxisEvent_16' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.PackageMetaData'
+[2023.04.02-13.52.47:952][ 42]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.SKEL_BP_ThirdPersonCharacter_Master_C:InpAxisEvt_Turn Right / Left Gamepad_K2Node_InputAxisEvent_15' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.PackageMetaData'
+[2023.04.02-13.52.47:952][ 42]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.SKEL_BP_ThirdPersonCharacter_Master_C:InpAxisEvt_Move Forward / Backward_K2Node_InputAxisEvent_14' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacterP1.PackageMetaData'
+[2023.04.02-13.52.47:988][ 42]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2023.04.02-13.52.47:989][ 42]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/BP_ThirdPersonGameMode291A46914FAA0C697D5BB0B8F6739D04.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2023.04.02-13.52.48:013][ 42]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master
+[2023.04.02-13.52.48:013][ 42]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/BP_ThirdPersonCharacter_Master29E947364B80C908500DDC9E3BFFA2CE.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.uasset'
+[2023.04.02-13.52.48:061][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.04.02-13.52.48:090][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.04.02-13.52.48:119][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.02-13.52.48:125][ 42]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.02-13.52.48:125][ 42]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.BP_ThirdPersonCharacter_Master
+[2023.04.02-13.52.48:125][ 42]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2023.04.02-13.52.49:749][212]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.02-13.52.49:749][212]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.02-13.52.50:439][291]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.02-13.52.50:439][291]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.02-13.52.51:051][358]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.02-13.52.51:051][358]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.02-13.52.52:606][539]LogContentBrowser: Deferred new asset file creation: BP_ThirdPersonCharacter_Master_Child
+[2023.04.02-13.52.52:663][539]LogContentBrowser: Creating deferred item: BP_ThirdPersonCharacter_Master_Child
+[2023.04.02-13.52.52:671][540]LogContentBrowser: Renaming the item being created (Deferred Item: BP_ThirdPersonCharacter_Master_Child).
+[2023.04.02-13.52.59:722][385]LogContentBrowser: Attempting asset rename: BP_ThirdPersonCharacter_Master_Child -> BP_ThirdPersonCharacter_P1
+[2023.04.02-13.52.59:804][385]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P1
+[2023.04.02-13.52.59:804][385]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/BP_ThirdPersonCharacter_P117C68B194EDE077256D71DBD562E3111.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P1.uasset'
+[2023.04.02-13.52.59:813][385]LogContentBrowser: End creating deferred item BP_ThirdPersonCharacter_Master_Child
+[2023.04.02-13.52.59:819][385]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter_P1
+[2023.04.02-13.52.59:819][385]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P1.BP_ThirdPersonCharacter_P1
+[2023.04.02-13.53.02:015][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.02-13.53.09:294][409]LogContentBrowser: Attempting asset rename: BP_ThirdPersonCharacter_Master_2 -> BP_ThirdPersonCharacter_P2
+[2023.04.02-13.53.09:309][409]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P2.SKEL_BP_ThirdPersonCharacter_P2_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master_2.PackageMetaData'
+[2023.04.02-13.53.09:309][409]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P2.BP_ThirdPersonCharacter_P2_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master_2.PackageMetaData'
+[2023.04.02-13.53.09:309][409]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P2.SKEL_BP_ThirdPersonCharacter_P2_C:InpAxisEvt_Move Forward / Backward_K2Node_InputAxisEvent_14' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master_2.PackageMetaData'
+[2023.04.02-13.53.09:309][409]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P2.SKEL_BP_ThirdPersonCharacter_P2_C:InpAxisEvt_Turn Right / Left Gamepad_K2Node_InputAxisEvent_15' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master_2.PackageMetaData'
+[2023.04.02-13.53.09:309][409]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P2.SKEL_BP_ThirdPersonCharacter_P2_C:InpAxisEvt_Turn Right / Left Mouse_K2Node_InputAxisEvent_16' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master_2.PackageMetaData'
+[2023.04.02-13.53.09:309][409]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P2.SKEL_BP_ThirdPersonCharacter_P2_C:InpAxisEvt_Look Up / Down Mouse_K2Node_InputAxisEvent_17' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master_2.PackageMetaData'
+[2023.04.02-13.53.09:309][409]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P2.SKEL_BP_ThirdPersonCharacter_P2_C:InpAxisEvt_Look Up / Down Gamepad_K2Node_InputAxisEvent_18' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master_2.PackageMetaData'
+[2023.04.02-13.53.09:309][409]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P2.SKEL_BP_ThirdPersonCharacter_P2_C:InpAxisEvt_Move Right / Left_K2Node_InputAxisEvent_19' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master_2.PackageMetaData'
+[2023.04.02-13.53.09:309][409]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P2.SKEL_BP_ThirdPersonCharacter_P2_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master_2.PackageMetaData'
+[2023.04.02-13.53.09:394][409]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P2
+[2023.04.02-13.53.09:394][409]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/BP_ThirdPersonCharacter_P2F6E34A3B4768C07B1B0A4684D7A4FC00.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P2.uasset'
+[2023.04.02-13.53.09:443][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.04.02-13.53.09:471][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.04.02-13.53.09:498][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.02-13.53.09:504][409]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter_P2
+[2023.04.02-13.53.09:504][409]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P2.BP_ThirdPersonCharacter_P2
+[2023.04.02-13.53.29:430][694]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P1.BP_ThirdPersonCharacter_P1
+[2023.04.02-13.53.29:430][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.02-13.53.29:724][694]LogViewport: Scene viewport resized to 1322x974, mode Windowed.
+[2023.04.02-13.53.33:791][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.04.02-13.53.33:794][170]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/X1/XJRBRS6WSE1PHUCUG0UZ6L_Auto3
+[2023.04.02-13.53.33:794][170]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/XJRBRS6WSE1PHUCUG0UZ6L_Auto37AFB951D4DD63C20E1B8FCB98EAF4F29.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/X1/XJRBRS6WSE1PHUCUG0UZ6L_Auto3.uasset'
+[2023.04.02-13.53.33:796][170]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WH/6N5I7682D4UXC8FJ688MKZ_Auto3
+[2023.04.02-13.53.33:796][170]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/6N5I7682D4UXC8FJ688MKZ_Auto3461E54024126AEEF07A150B8EDEC7769.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WH/6N5I7682D4UXC8FJ688MKZ_Auto3.uasset'
+[2023.04.02-13.53.33:796][170]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.039
+[2023.04.02-13.53.33:796][170]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2023.04.02-13.53.33:797][170]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Doors/ButtonForDoor] ([2] browsable assets)...
+[2023.04.02-13.53.33:809][170]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Doors/ButtonForDoor.ButtonForDoor]
+[2023.04.02-13.53.33:809][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/Doors/ButtonForDoor]
+[2023.04.02-13.53.33:812][170]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Doors/ButtonForDoor_Auto3
+[2023.04.02-13.53.33:812][170]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/ButtonForDoor_Auto3784861004108FB181237D79EC025A873.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/Autosaves/Game/Doors/ButtonForDoor_Auto3.uasset'
+[2023.04.02-13.53.33:812][170]LogFileHelpers: Auto-saving content packages took 0.016
+[2023.04.02-13.53.36:639][497]BlueprintLog: New page: Compile ButtonForDoor
+[2023.04.02-13.53.36:688][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.04.02-13.53.36:764][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/ButtonForDoor" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset" SILENT=true
+[2023.04.02-13.53.36:767][497]LogSavePackage: Moving output files for package: /Game/Doors/ButtonForDoor
+[2023.04.02-13.53.36:768][497]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/ButtonForDoor6B7EDD294BB2AF36CF1F218F2561A4F0.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset'
+[2023.04.02-13.53.36:782][497]AssetCheck: New page: Asset Save: ButtonForDoor
+[2023.04.02-13.53.36:782][497]LogContentValidation: Display: Validating Blueprint /Game/Doors/ButtonForDoor.ButtonForDoor
+[2023.04.02-13.53.38:425][664]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.BP_ThirdPersonCharacter_Master
+[2023.04.02-13.53.38:426][664]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.02-13.53.46:147][528]BlueprintLog: New page: Compile BP_ThirdPersonCharacter_P1
+[2023.04.02-13.53.46:230][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.04.02-13.53.46:300][528]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P1
+[2023.04.02-13.53.46:300][528]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/BP_ThirdPersonCharacter_P172AEE6234FE8295BC0765AB6AAC8DFC3.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P1.uasset'
+[2023.04.02-13.53.46:312][528]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter_P1
+[2023.04.02-13.53.46:313][528]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_P1.BP_ThirdPersonCharacter_P1
+[2023.04.02-13.54.08:718][198]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-13.54.08:718][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-13.54.16:989][148]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.BP_ThirdPersonCharacter_Master
+[2023.04.02-13.54.16:989][148]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.02-13.55.49:480][962]BlueprintLog: New page: Compile ButtonForDoor
+[2023.04.02-13.55.49:543][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.04.02-13.55.49:617][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/ButtonForDoor" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset" SILENT=true
+[2023.04.02-13.55.49:620][962]LogSavePackage: Moving output files for package: /Game/Doors/ButtonForDoor
+[2023.04.02-13.55.49:621][962]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/ButtonForDoorA0AFA55D4E33BE86AB4BC99677D2D450.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset'
+[2023.04.02-13.55.49:634][962]AssetCheck: New page: Asset Save: ButtonForDoor
+[2023.04.02-13.55.49:634][962]LogContentValidation: Display: Validating Blueprint /Game/Doors/ButtonForDoor.ButtonForDoor
+[2023.04.02-13.57.21:389][807]BlueprintLog: New page: Compile ButtonForDoor
+[2023.04.02-13.57.21:449][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.04.02-13.57.21:530][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/ButtonForDoor" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset" SILENT=true
+[2023.04.02-13.57.21:533][807]LogSavePackage: Moving output files for package: /Game/Doors/ButtonForDoor
+[2023.04.02-13.57.21:534][807]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/ButtonForDoor38E9F5AE4DB806C2EDA660AF952DDDE6.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset'
+[2023.04.02-13.57.21:546][807]AssetCheck: New page: Asset Save: ButtonForDoor
+[2023.04.02-13.57.21:546][807]LogContentValidation: Display: Validating Blueprint /Game/Doors/ButtonForDoor.ButtonForDoor
+[2023.04.02-13.58.58:230][285]BlueprintLog: New page: Compile Door
+[2023.04.02-13.58.58:290][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.04.02-13.58.58:361][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/Door" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/Door.uasset" SILENT=true
+[2023.04.02-13.58.58:365][285]LogSavePackage: Moving output files for package: /Game/Doors/Door
+[2023.04.02-13.58.58:365][285]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/Door3D08D935439D36A5CA69729DC38081CE.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/Door.uasset'
+[2023.04.02-13.58.58:379][285]AssetCheck: New page: Asset Save: Door
+[2023.04.02-13.58.58:379][285]LogContentValidation: Display: Validating Blueprint /Game/Doors/Door.Door
+[2023.04.02-13.59.34:380][570]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.02-13.59.44:006][716]BlueprintLog: New page: Compile ButtonForDoor
+[2023.04.02-13.59.44:065][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.04.02-13.59.44:139][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/ButtonForDoor" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset" SILENT=true
+[2023.04.02-13.59.44:142][716]LogSavePackage: Moving output files for package: /Game/Doors/ButtonForDoor
+[2023.04.02-13.59.44:143][716]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/ButtonForDoor62D24651402279A84CDABEAA48B77690.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset'
+[2023.04.02-13.59.44:155][716]AssetCheck: New page: Asset Save: ButtonForDoor
+[2023.04.02-13.59.44:155][716]LogContentValidation: Display: Validating Blueprint /Game/Doors/ButtonForDoor.ButtonForDoor
+[2023.04.02-14.02.08:721][658]BlueprintLog: New page: Compile ButtonForDoor
+[2023.04.02-14.02.08:723][658]LogBlueprint: Warning: [AssetLog] C:\Users\mikee\Documents\GitHub\LostInEmotion\Tesi\Content\Doors\ButtonForDoor.uasset: [Compiler] 'Door' does not inherit from 'Pawn' ( Cast To Door  would always fail).
+[2023.04.02-14.02.08:785][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.04.02-14.02.20:480][ 44]BlueprintLog: New page: Compile ButtonForDoor
+[2023.04.02-14.02.20:481][ 44]LogBlueprint: Warning: [AssetLog] C:\Users\mikee\Documents\GitHub\LostInEmotion\Tesi\Content\Doors\ButtonForDoor.uasset: [Compiler] 'Door' does not inherit from 'Pawn' ( Cast To Door  would always fail).
+[2023.04.02-14.02.20:543][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.04.02-14.02.27:441][849]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2023.04.02-14.02.43:038][955]BlueprintLog: New page: Compile Door
+[2023.04.02-14.02.43:098][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.04.02-14.02.43:174][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/Door" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/Door.uasset" SILENT=true
+[2023.04.02-14.02.43:177][955]LogSavePackage: Moving output files for package: /Game/Doors/Door
+[2023.04.02-14.02.43:177][955]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/Door25B794B34FE0675C6B8DC48972830127.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/Door.uasset'
+[2023.04.02-14.02.43:195][955]AssetCheck: New page: Asset Save: Door
+[2023.04.02-14.02.43:195][955]LogContentValidation: Display: Validating Blueprint /Game/Doors/Door.Door
+[2023.04.02-14.02.55:459][413]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-14.02.55:459][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-14.03.02:466][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.02-14.03.03:810][235]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.02-14.03.03:998][235]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.02-14.03.03:998][235]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-14.03.03:998][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-14.03.04:083][235]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.02-14.03.04:083][235]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-14.03.04:083][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-14.03.04:140][235]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.02-14.03.04:140][235]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-14.03.04:141][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-14.03.04:186][235]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Doors/Door.Door
+	Asset Type: Blueprint
+[2023.04.02-14.03.04:472][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.04.02-14.03.04:564][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.04.02-14.03.04:586][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.04.02-14.03.04:600][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.04.02-14.03.11:279][977]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Doors/ButtonForDoor.ButtonForDoor
+[2023.04.02-14.03.11:279][977]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.02-14.03.23:705][421]BlueprintLog: New page: Compile ButtonForDoor
+[2023.04.02-14.03.23:740][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.04.02-14.03.23:815][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/ButtonForDoor" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset" SILENT=true
+[2023.04.02-14.03.23:818][421]LogSavePackage: Moving output files for package: /Game/Doors/ButtonForDoor
+[2023.04.02-14.03.23:819][421]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/ButtonForDoorF0561AE84FE88B1D088381AD2E59CB25.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset'
+[2023.04.02-14.03.23:828][421]AssetCheck: New page: Asset Save: ButtonForDoor
+[2023.04.02-14.03.23:829][421]LogContentValidation: Display: Validating Blueprint /Game/Doors/ButtonForDoor.ButtonForDoor
+[2023.04.02-14.03.35:135][223]LogViewport: Scene viewport resized to 1322x973, mode Windowed.
+[2023.04.02-14.03.50:934][ 56]BlueprintLog: New page: Compile ButtonForDoor
+[2023.04.02-14.03.50:972][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.04.02-14.03.51:046][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/ButtonForDoor" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset" SILENT=true
+[2023.04.02-14.03.51:050][ 56]LogSavePackage: Moving output files for package: /Game/Doors/ButtonForDoor
+[2023.04.02-14.03.51:050][ 56]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/ButtonForDoor03AD088748F7F2B2B13E6F955F4B052A.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset'
+[2023.04.02-14.03.51:061][ 56]AssetCheck: New page: Asset Save: ButtonForDoor
+[2023.04.02-14.03.51:061][ 56]LogContentValidation: Display: Validating Blueprint /Game/Doors/ButtonForDoor.ButtonForDoor
+[2023.04.02-14.03.53:337][314]LogViewport: Scene viewport resized to 1320x991, mode Windowed.
+[2023.04.02-14.03.53:403][316]LogViewport: Scene viewport resized to 550x347, mode Windowed.
+[2023.04.02-14.03.53:441][317]LogViewport: Scene viewport resized to 404x226, mode Windowed.
+[2023.04.02-14.03.54:087][389]LogViewport: Scene viewport resized to 406x234, mode Windowed.
+[2023.04.02-14.03.56:455][660]LogViewport: Scene viewport resized to 407x234, mode Windowed.
+[2023.04.02-14.03.56:488][660]LogViewport: Scene viewport resized to 414x249, mode Windowed.
+[2023.04.02-14.03.56:530][660]LogViewport: Scene viewport resized to 425x268, mode Windowed.
+[2023.04.02-14.03.56:572][660]LogViewport: Scene viewport resized to 453x317, mode Windowed.
+[2023.04.02-14.03.56:614][660]LogViewport: Scene viewport resized to 478x349, mode Windowed.
+[2023.04.02-14.03.56:646][660]LogViewport: Scene viewport resized to 503x386, mode Windowed.
+[2023.04.02-14.03.56:680][660]LogViewport: Scene viewport resized to 524x418, mode Windowed.
+[2023.04.02-14.03.56:723][660]LogViewport: Scene viewport resized to 540x442, mode Windowed.
+[2023.04.02-14.03.56:764][660]LogViewport: Scene viewport resized to 562x470, mode Windowed.
+[2023.04.02-14.03.56:805][660]LogViewport: Scene viewport resized to 589x498, mode Windowed.
+[2023.04.02-14.03.56:838][660]LogViewport: Scene viewport resized to 612x513, mode Windowed.
+[2023.04.02-14.03.56:880][660]LogViewport: Scene viewport resized to 632x525, mode Windowed.
+[2023.04.02-14.03.56:922][660]LogViewport: Scene viewport resized to 652x538, mode Windowed.
+[2023.04.02-14.03.56:972][660]LogViewport: Scene viewport resized to 665x546, mode Windowed.
+[2023.04.02-14.03.57:015][660]LogViewport: Scene viewport resized to 682x557, mode Windowed.
+[2023.04.02-14.03.57:080][660]LogViewport: Scene viewport resized to 705x570, mode Windowed.
+[2023.04.02-14.03.57:130][660]LogViewport: Scene viewport resized to 706x571, mode Windowed.
+[2023.04.02-14.03.57:172][660]LogViewport: Scene viewport resized to 707x572, mode Windowed.
+[2023.04.02-14.03.57:215][660]LogViewport: Scene viewport resized to 709x572, mode Windowed.
+[2023.04.02-14.03.57:255][660]LogViewport: Scene viewport resized to 709x573, mode Windowed.
+[2023.04.02-14.04.03:579][259]BlueprintLog: New page: Compile ButtonForDoor
+[2023.04.02-14.04.03:625][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.02-14.04.03:690][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/ButtonForDoor" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset" SILENT=true
+[2023.04.02-14.04.03:694][259]LogSavePackage: Moving output files for package: /Game/Doors/ButtonForDoor
+[2023.04.02-14.04.03:694][259]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/ButtonForDoor1D6B2FCE473A6E38B917769E3AB2DB88.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset'
+[2023.04.02-14.04.03:707][259]AssetCheck: New page: Asset Save: ButtonForDoor
+[2023.04.02-14.04.03:707][259]LogContentValidation: Display: Validating Blueprint /Game/Doors/ButtonForDoor.ButtonForDoor
+[2023.04.02-14.04.36:496][203]BlueprintLog: New page: Compile ButtonForDoor
+[2023.04.02-14.04.36:534][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.04.02-14.04.36:606][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/ButtonForDoor" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset" SILENT=true
+[2023.04.02-14.04.36:610][203]LogSavePackage: Moving output files for package: /Game/Doors/ButtonForDoor
+[2023.04.02-14.04.36:610][203]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/ButtonForDoor4C88AD3C4ADE7A0CBCB1B48A7E14F02B.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset'
+[2023.04.02-14.04.36:624][203]AssetCheck: New page: Asset Save: ButtonForDoor
+[2023.04.02-14.04.36:624][203]LogContentValidation: Display: Validating Blueprint /Game/Doors/ButtonForDoor.ButtonForDoor
+[2023.04.02-14.04.45:985][257]LogSlate: Window 'ButtonForDoor' being destroyed
+[2023.04.02-14.05.54:377][311]BlueprintLog: New page: Compile ButtonForDoor
+[2023.04.02-14.05.54:416][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.04.02-14.05.54:498][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/ButtonForDoor" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset" SILENT=true
+[2023.04.02-14.05.54:503][311]LogSavePackage: Moving output files for package: /Game/Doors/ButtonForDoor
+[2023.04.02-14.05.54:503][311]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/ButtonForDoorAA9C572B4CAB0470B41F02BF09AF6BFB.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset'
+[2023.04.02-14.05.54:514][311]AssetCheck: New page: Asset Save: ButtonForDoor
+[2023.04.02-14.05.54:514][311]LogContentValidation: Display: Validating Blueprint /Game/Doors/ButtonForDoor.ButtonForDoor
+[2023.04.02-14.06.40:868][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.02-14.06.40:872][ 41]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/X1/XJRBRS6WSE1PHUCUG0UZ6L_Auto4
+[2023.04.02-14.06.40:872][ 41]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/XJRBRS6WSE1PHUCUG0UZ6L_Auto489E1E8BD4F1AC401103BEB9D33C7AC60.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/X1/XJRBRS6WSE1PHUCUG0UZ6L_Auto4.uasset'
+[2023.04.02-14.06.40:872][ 41]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.026
+[2023.04.02-14.06.40:872][ 41]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2023.04.02-14.06.40:872][ 41]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master] ([2] browsable assets)...
+[2023.04.02-14.06.40:921][ 41]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.BP_ThirdPersonCharacter_Master]
+[2023.04.02-14.06.40:921][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master]
+[2023.04.02-14.06.40:933][ 41]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master_Auto4
+[2023.04.02-14.06.40:933][ 41]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/BP_ThirdPersonCharacter_Master_A850B0A4C4E7BE1091C0CDCAEB58F0E94.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master_Auto4.uasset'
+[2023.04.02-14.06.40:933][ 41]LogFileHelpers: Auto-saving content packages took 0.061
+[2023.04.02-14.07.46:196][162]BlueprintLog: New page: Compile ButtonForDoor
+[2023.04.02-14.07.46:234][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.04.02-14.07.46:302][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/ButtonForDoor" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset" SILENT=true
+[2023.04.02-14.07.46:307][162]LogSavePackage: Moving output files for package: /Game/Doors/ButtonForDoor
+[2023.04.02-14.07.46:308][162]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/ButtonForDoor8D854F8C4610904CDE16CBA6046EC838.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset'
+[2023.04.02-14.07.46:318][162]AssetCheck: New page: Asset Save: ButtonForDoor
+[2023.04.02-14.07.46:318][162]LogContentValidation: Display: Validating Blueprint /Game/Doors/ButtonForDoor.ButtonForDoor
+[2023.04.02-14.08.02:665][924]BlueprintLog: New page: Compile ButtonForDoor
+[2023.04.02-14.08.02:703][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.04.02-14.08.02:772][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/ButtonForDoor" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset" SILENT=true
+[2023.04.02-14.08.02:777][924]LogSavePackage: Moving output files for package: /Game/Doors/ButtonForDoor
+[2023.04.02-14.08.02:777][924]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/ButtonForDoor54DC7FCC4D04EBAD926D4C852D887D97.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset'
+[2023.04.02-14.08.02:788][924]AssetCheck: New page: Asset Save: ButtonForDoor
+[2023.04.02-14.08.02:788][924]LogContentValidation: Display: Validating Blueprint /Game/Doors/ButtonForDoor.ButtonForDoor
+[2023.04.02-14.08.16:528][165]BlueprintLog: New page: Compile ButtonForDoor
+[2023.04.02-14.08.16:566][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.02-14.08.17:037][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/ButtonForDoor" FILE="../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset" SILENT=true
+[2023.04.02-14.08.17:040][203]LogSavePackage: Moving output files for package: /Game/Doors/ButtonForDoor
+[2023.04.02-14.08.17:041][203]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/ButtonForDoor8CA58BAC4118EABFAA21EF801FD8BC29.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/Doors/ButtonForDoor.uasset'
+[2023.04.02-14.08.17:051][203]AssetCheck: New page: Asset Save: ButtonForDoor
+[2023.04.02-14.08.17:051][203]LogContentValidation: Display: Validating Blueprint /Game/Doors/ButtonForDoor.ButtonForDoor
+[2023.04.02-14.08.26:424][281]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.BP_ThirdPersonCharacter_Master
+[2023.04.02-14.08.26:424][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.02-14.09.06:090][947]BlueprintLog: New page: Compile BP_ThirdPersonCharacter_Master
+[2023.04.02-14.09.06:183][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.04.02-14.09.06:305][947]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master
+[2023.04.02-14.09.06:305][947]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/BP_ThirdPersonCharacter_MasterB5CEC5F84E0D922E65E4BFBAB9B74C95.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.uasset'
+[2023.04.02-14.09.06:318][947]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter_Master
+[2023.04.02-14.09.06:318][947]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.BP_ThirdPersonCharacter_Master
+[2023.04.02-14.09.25:470][358]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.02-14.09.28:138][666]BlueprintLog: New page: Compile BP_ThirdPersonCharacter_Master
+[2023.04.02-14.09.28:222][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.04.02-14.09.28:326][666]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master
+[2023.04.02-14.09.28:326][666]LogSavePackage: Moving '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Saved/BP_ThirdPersonCharacter_Master977CDF2943101242037F5BA928147EF5.tmp' to '../../../../../../Users/mikee/Documents/GitHub/LostInEmotion/Tesi/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.uasset'
+[2023.04.02-14.09.28:337][666]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter_Master
+[2023.04.02-14.09.28:337][666]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Master.BP_ThirdPersonCharacter_Master
+[2023.04.02-14.09.31:239][ 10]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.02-14.09.31:243][ 10]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.02-14.09.31:243][ 10]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.02-14.09.31:243][ 10]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.02-14.09.31:243][ 10]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.02-14.09.31:243][ 10]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.02-14.09.31:243][ 10]LogWorldPartition: Display: GetPartitionedActors took 32 us
+[2023.04.02-14.09.31:243][ 10]LogWorldPartition: Display: GenerateStreaming took 196 us
+[2023.04.02-14.09.31:243][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.02-14.09.31:243][ 10]PIE: New page: PIE session: ThirdPersonMap (2 apr 2023, 18:09:31)
+[2023.04.02-14.09.31:243][ 10]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.02-14.09.31:247][ 10]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.02-14.09.31:247][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003275s)
+[2023.04.02-14.09.31:247][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003312s)
+[2023.04.02-14.09.31:247][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.02-14.09.31:247][ 10]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.02-14.09.31:247][ 10]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.02-14.09.31:247][ 10]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.02-14.09.31:248][ 10]LogWorldPartition: Display: WorldPartition initialize took 759 us
+[2023.04.02-14.09.31:248][ 10]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2023.04.02-14.09.31:272][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.04.02-14.09.31:276][ 10]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.04.02-14.09.31:276][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.02-14.09.31:276][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.02-14.09.31:276][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.02-14.09.31:276][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.02-14.09.31:276][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.02-14.09.31:277][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.02-14.09.31:277][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.02-14.09.31:277][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.02-14.09.31:277][ 10]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.02-14.09.31:277][ 10]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.02-14.09.31:277][ 10]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.02-14.09.31:279][ 10]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.02-14.09.31:297][ 10]LogAudioMixer: Display: Using Audio Hardware Device DigitalOutput (NVIDIA High Definition Audio)
+[2023.04.02-14.09.31:297][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.02-14.09.31:297][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.02-14.09.31:297][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.02-14.09.31:298][ 10]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.04.02-14.09.31:298][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.04.02-14.09.31:299][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.04.02-14.09.31:299][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.04.02-14.09.31:299][ 10]LogInit: FAudioDevice initialized.
+[2023.04.02-14.09.31:299][ 10]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2023.04.02-14.09.31:327][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.02-14.09.31:327][ 10]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.02-14.09.31:329][ 10]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.04.02-16.09.31
+[2023.04.02-14.09.31:329][ 10]LogWorld: Bringing up level for play took: 0.001766
+[2023.04.02-14.09.31:330][ 10]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.04.02-14.09.31:333][ 10]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.02-14.09.31:333][ 10]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.02-14.09.31:336][ 10]PIE: Server logged in
+[2023.04.02-14.09.31:338][ 10]PIE: Play in editor total start time 0,095 seconds.
+[2023.04.02-14.09.31:338][ 10]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_1_ThirdPersonMap
+[2023.04.02-14.09.31:341][ 10]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.02-14.09.31:341][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003213s)
+[2023.04.02-14.09.31:341][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_1_ThirdPersonMap.ThirdPersonMap (0.003251s)
+[2023.04.02-14.09.31:341][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.02-14.09.31:341][ 10]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.02-14.09.31:342][ 10]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.02-14.09.31:342][ 10]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.02-14.09.31:342][ 10]LogWorldPartition: Display: WorldPartition initialize took 726 us
+[2023.04.02-14.09.31:342][ 10]LogPlayLevel: PIE: World Init took: (0.001490s)
+[2023.04.02-14.09.31:367][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.04.02-14.09.31:368][ 10]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.04.02-14.09.31:368][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.02-14.09.31:368][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.02-14.09.31:368][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.02-14.09.31:368][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.02-14.09.31:368][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.02-14.09.31:368][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.02-14.09.31:368][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.02-14.09.31:368][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.02-14.09.31:368][ 10]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.02-14.09.31:368][ 10]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.02-14.09.31:368][ 10]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.02-14.09.31:370][ 10]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.02-14.09.31:387][ 10]LogAudioMixer: Display: Using Audio Hardware Device DigitalOutput (NVIDIA High Definition Audio)
+[2023.04.02-14.09.31:388][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.02-14.09.31:388][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.02-14.09.31:388][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.02-14.09.31:388][ 10]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.04.02-14.09.31:388][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.04.02-14.09.31:389][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.04.02-14.09.31:389][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.04.02-14.09.31:390][ 10]LogInit: FAudioDevice initialized.
+[2023.04.02-14.09.31:390][ 10]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2023.04.02-14.09.31:419][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.02-14.09.31:419][ 10]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.02-14.09.31:421][ 10]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_1_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.04.02-16.09.31
+[2023.04.02-14.09.31:421][ 10]LogWorld: Bringing up level for play took: 0.001492
+[2023.04.02-14.09.31:423][ 10]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.04.02-14.09.31:425][ 10]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.02-14.09.31:425][ 10]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.02-14.09.31:427][ 10]PIE: Server logged in
+[2023.04.02-14.09.31:428][ 10]PIE: Play in editor total start time 0,186 seconds.
+[2023.04.02-14.09.31:438][ 10]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2023.04.02-14.09.31:453][ 10]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2023.04.02-14.09.39:062][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.02-14.09.39:062][613]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_1_ThirdPersonMap
+[2023.04.02-14.09.39:062][613]LogSlate: Window 'Tesi Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.02-14.09.39:066][613]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-14.09.39:066][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-14.09.39:074][613]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.02-14.09.39:074][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.02-14.09.39:074][613]LogSlate: Window 'Tesi Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.02-14.09.39:078][613]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-14.09.39:079][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-14.09.39:091][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.02-14.09.39:094][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-14.09.39:120][613]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.02-14.09.39:120][613]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.02-14.09.39:120][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.04.02-14.09.39:121][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.04.02-14.09.39:124][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.04.02-14.09.39:125][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.04.02-14.09.39:131][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.04.02-14.09.39:144][614]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.04.02-14.09.39:144][614]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.04.02-14.09.45:841][399]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-14.09.45:841][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-14.09.46:549][476]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.02-14.09.46:549][476]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-14.09.46:549][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-14.10.12:555][571]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.02-14.10.12:560][571]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.02-14.10.12:560][571]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.02-14.10.12:560][571]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.02-14.10.12:560][571]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.04.02-14.10.12:560][571]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.04.02-14.10.12:560][571]LogWorldPartition: Display: GetPartitionedActors took 33 us
+[2023.04.02-14.10.12:560][571]LogWorldPartition: Display: GenerateStreaming took 200 us
+[2023.04.02-14.10.12:560][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.02-14.10.12:560][571]PIE: New page: PIE session: ThirdPersonMap (2 apr 2023, 18:10:12)
+[2023.04.02-14.10.12:560][571]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.02-14.10.12:563][571]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.02-14.10.12:563][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003319s)
+[2023.04.02-14.10.12:563][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003358s)
+[2023.04.02-14.10.12:564][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.02-14.10.12:564][571]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.02-14.10.12:564][571]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.02-14.10.12:564][571]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.02-14.10.12:565][571]LogWorldPartition: Display: WorldPartition initialize took 777 us
+[2023.04.02-14.10.12:565][571]LogPlayLevel: PIE: World Init took: (0.001554s)
+[2023.04.02-14.10.12:582][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.04.02-14.10.12:618][571]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.04.02-14.10.12:618][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.02-14.10.12:618][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.02-14.10.12:618][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.02-14.10.12:618][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.02-14.10.12:618][571]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.02-14.10.12:618][571]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.02-14.10.12:618][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.02-14.10.12:618][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.02-14.10.12:618][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.02-14.10.12:618][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.02-14.10.12:618][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.02-14.10.12:619][571]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.02-14.10.12:638][571]LogAudioMixer: Display: Using Audio Hardware Device DigitalOutput (NVIDIA High Definition Audio)
+[2023.04.02-14.10.12:639][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.02-14.10.12:639][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.02-14.10.12:639][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.02-14.10.12:639][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.04.02-14.10.12:639][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.04.02-14.10.12:640][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.04.02-14.10.12:640][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.04.02-14.10.12:640][571]LogInit: FAudioDevice initialized.
+[2023.04.02-14.10.12:640][571]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2023.04.02-14.10.12:648][571]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.02-14.10.12:649][571]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.04.02-16.10.12
+[2023.04.02-14.10.12:649][571]LogWorld: Bringing up level for play took: 0.001454
+[2023.04.02-14.10.12:650][571]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.04.02-14.10.12:652][571]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.02-14.10.12:652][571]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.02-14.10.12:653][571]PIE: Server logged in
+[2023.04.02-14.10.12:653][571]PIE: Play in editor total start time 0,094 seconds.
+[2023.04.02-14.10.12:653][571]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_1_ThirdPersonMap
+[2023.04.02-14.10.12:656][571]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.04.02-14.10.12:656][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003014s)
+[2023.04.02-14.10.12:656][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_1_ThirdPersonMap.ThirdPersonMap (0.003049s)
+[2023.04.02-14.10.12:657][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.02-14.10.12:657][571]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.02-14.10.12:657][571]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.02-14.10.12:657][571]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.04.02-14.10.12:658][571]LogWorldPartition: Display: WorldPartition initialize took 724 us
+[2023.04.02-14.10.12:658][571]LogPlayLevel: PIE: World Init took: (0.001362s)
+[2023.04.02-14.10.12:672][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.04.02-14.10.12:674][571]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.04.02-14.10.12:674][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.02-14.10.12:674][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.02-14.10.12:674][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.02-14.10.12:674][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.02-14.10.12:674][571]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.02-14.10.12:674][571]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.02-14.10.12:674][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.02-14.10.12:674][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.02-14.10.12:674][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.02-14.10.12:674][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.02-14.10.12:674][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.02-14.10.12:676][571]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.02-14.10.12:693][571]LogAudioMixer: Display: Using Audio Hardware Device DigitalOutput (NVIDIA High Definition Audio)
+[2023.04.02-14.10.12:693][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.02-14.10.12:693][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.02-14.10.12:693][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.02-14.10.12:693][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.04.02-14.10.12:693][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.04.02-14.10.12:694][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.04.02-14.10.12:694][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.04.02-14.10.12:694][571]LogInit: FAudioDevice initialized.
+[2023.04.02-14.10.12:695][571]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2023.04.02-14.10.12:726][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.02-14.10.12:726][571]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.02-14.10.12:727][571]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_1_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.04.02-16.10.12
+[2023.04.02-14.10.12:727][571]LogWorld: Bringing up level for play took: 0.001496
+[2023.04.02-14.10.12:729][571]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.04.02-14.10.12:731][571]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.02-14.10.12:731][571]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.04.02-14.10.12:733][571]PIE: Server logged in
+[2023.04.02-14.10.12:735][571]PIE: Play in editor total start time 0,176 seconds.
+[2023.04.02-14.10.12:766][571]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2023.04.02-14.10.21:190][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.02-14.10.21:191][277]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_1_ThirdPersonMap
+[2023.04.02-14.10.21:192][277]LogSlate: Window 'Tesi Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.02-14.10.21:194][277]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-14.10.21:194][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-14.10.21:207][277]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.02-14.10.21:208][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.02-14.10.21:208][277]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.02-14.10.21:208][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-14.10.21:217][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.02-14.10.21:221][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.02-14.10.21:237][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.02-14.10.21:237][277]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.02-14.10.21:237][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.04.02-14.10.21:239][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.04.02-14.10.21:242][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.04.02-14.10.21:242][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.04.02-14.10.21:248][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.02-14.10.21:277][278]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.04.02-14.10.21:277][278]LogPlayLevel: Display: Destroying online subsystem :Context_42
